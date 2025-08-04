@@ -1,3 +1,4 @@
+
 # Rust Calculator
 
 A powerful command-line calculator written in Rust that evaluates mathematical expressions with proper operator precedence and parentheses support.
@@ -234,4 +235,4 @@ Potential improvements for future versions:
 - [ ] Mathematical functions (sin, cos, sqrt, etc.)
 - [ ] Variable support
 - [ ] Interactive REPL mode
-- [ ] Scientific notation support 
+- [ ] Scientific notation support
